@@ -8,3 +8,12 @@ body {
 h1 {
 	text-transform: uppercase;
 }
+
+.email img {
+    max-width: 250px;
+}
+
+.idTabs ul a:hover {
+	-moz-transition:.3s linear;
+    -webkit-transition:.3s linear;
+}
