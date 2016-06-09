@@ -17,3 +17,13 @@ h1 {
 	-moz-transition:.3s linear;
     -webkit-transition:.3s linear;
 }
+
+footer {
+	position: fixed;
+	bottom: 0px;
+	left: 0;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	color: #C0C0C0;
+}
