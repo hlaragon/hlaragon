@@ -18,6 +18,10 @@ h1 {
     -webkit-transition:.3s linear;
 }
 
+.starter-template {
+	padding-bottom: 0px;
+}
+
 footer {
 	position: fixed;
 	bottom: 0px;
